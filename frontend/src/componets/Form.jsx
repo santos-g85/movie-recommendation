@@ -47,7 +47,7 @@ function SimpleRegistrationForm({ isLogin = false }) {
   <div className="flex justify-center items-center h-screen">
     <Card shadow={true}>
       <Typography variant="h4" color="blue-gray" className="text-center mt-4">
-        {isLogin ? "Log IN" : "Sign Up"}
+        {isLogin ? "Log In" : "Sign Up"}
       </Typography>
       <Typography color="gray" className="mt-1 font-normal text-center">
         Nice to meet you! Enter your details to{" "}
@@ -133,7 +133,7 @@ function SimpleRegistrationForm({ isLogin = false }) {
             <>
               Already have an account?{" "}
               <a href="/login" className="font-medium text-blue-700">
-                Sign In
+                Log In
               </a>
             </>
           )}

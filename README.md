@@ -1,1 +1,1 @@
-Movie Recommendation System cosine similarity for movie recommendation
+Movie Recommendation System using cosine similarity for movie recommendation
